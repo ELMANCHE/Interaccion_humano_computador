@@ -6,9 +6,9 @@ const slider_btn = document.querySelectorAll('.dot');
 
 
 const backimg = {
-    fimg: 'img/IMG1.jpg',
-    simg: 'img/IMG2.jpg',
-    timg: 'img/IMG3.jpg'
+    fimg: 'img/videoprin.mp4',
+    simg: 'img/videoprin2.mp4',
+    timg: 'img/videoprin3.mp4'
 }
 
 
